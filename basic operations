@@ -1,5 +1,5 @@
 function addition (a,b){
-  c = a + b
+  c = b + a
   return c
   }
   
