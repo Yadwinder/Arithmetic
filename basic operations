@@ -1,0 +1,9 @@
+function addition (a,b){
+  c = a + b
+  return c
+  }
+  
+  function multiply (a,b){
+    c = a * b
+    return c
+    }
