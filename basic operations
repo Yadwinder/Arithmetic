@@ -13,3 +13,8 @@ function subraction (a,b){
   c = a - b
   return c
   }
+
+function divide(a,b){
+  c = a/b
+  return c
+  }
