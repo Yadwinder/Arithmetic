@@ -1,6 +1,6 @@
-function addition (a,b){
-  c = a + b
-  return c
+function addition (a,b,c=0){
+  d = a + b +c
+  return d
   }
   
   function multiply (a,b){
